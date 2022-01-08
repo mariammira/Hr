@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\company-list",
+    "\\src\\app\\employee-edit",
+    "\\src\\app\\employee-list",
+    "\\src\\app\\error404",
+    "\\src\\assets"
+  ],
+  "SelectedNode": "\\src\\app\\employee-edit\\employee-edit.component.ts",
+  "PreviewInSolutionExplorer": false
+}

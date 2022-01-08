@@ -1,0 +1,9 @@
+/* You can add global styles to this file, and also import other style files */
+.mr-3 {
+margin-right:3px
+}
+.table .thead-dark th {
+  color: #fff;
+  background-color: #333;
+  border-color: #32383e;
+}
